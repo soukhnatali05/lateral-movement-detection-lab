@@ -227,7 +227,7 @@ Through building and iterating on this lab, the project explores:
 
 - **Natali Soukh** — [LinkedIn](https://linkedin.com/in/natali-soukh-2763992a6) · [GitHub](https://github.com/soukhnatali05)
 - **Zainab Taha** — [LinkedIn](https://linkedin.com/in/zainab-taha-cs) · [GitHub](https://github.com/zainabthaa)
-- **Leen Dalloul**
+- - **Leen Dalloul** — [LinkedIn](https://www.linkedin.com/in/leen-dalloul-1514872a3/) · [GitHub](https://github.com/leendalloul)
 
 Senior capstone project, Effat University.
 
